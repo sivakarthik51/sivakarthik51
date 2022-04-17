@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siva Karthik</h1>
-<h3 align="center">A passionate developer interested in Algorithms research</h3>
+<h3 align="center">A passionate developer interested in Full-Stack Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivakarthik51&label=Profile%20views&color=0e75b6&style=flat" alt="sivakarthik51" /> </p>
 
