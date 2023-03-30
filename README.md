@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siva Karthik</h1>
 <h3 align="center">A passionate developer interested in Full-Stack Engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sivakarthik51&label=Profile%20views&color=0e75b6&style=flat" alt="sivakarthik51" /> </p>
-
 - 🌱 I’m currently learning **Algorithms, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://sivakarthik51.netlify.app/](https://sivakarthik51.netlify.app/)
